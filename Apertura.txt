@@ -1,19 +1,19 @@
 Welcome,
 
-I open this blog to study and explain the various electoral laws all around the world.
-Everyone can realize that not the law are the same but vary few know the real different between them and the political system needed by them.
+The purpose of this blog is to study and explain the various electoral laws all around the world.
+Everyone can realize that not two sets of laws are the same, but very few know the real difference among them and the political system they need to work.
 
-There is two big electoral system: the proportional and the majority; which respectively represent the two forces of the parliamentary system loyalty to the votes or the governance, because if you don't have a two party system (like USA or Malta) on a proportional system you are not mathematically sure that some one can form a government.
+There are two big electoral system: the proportional and the majority. They represent the two forces of the parliamentary system: loyalty to the votes. The second places the emphasis over the governance: if you don't have a two party system (like USA or Malta) on a proportional system you cannot be sure that some one can form a government.
 
-For example after the last Swedish Election (link) there wasn't a clear majority so they choose a minority government, the PM Stefan Lofven was elected with more abstention votes then favor votes.
+For example, after the last Swedish Election (link), in which there wasn't a clear majority, a minority government was formed, and the PM Stefan Lofven was elected with more abstention votes then favor votes.
 
-So what is the perfect electoral law or at least the best (see S. theorem) for each country? For each political system?
+So what is the perfect electoral law, or at least the best (see S. theorem) for each country? For each political system?
 
 Is the electoral law that make the the political system or viceversa?
 
-Is it better to have only one electoral law for all election in one country (like Sweden) or one different electoral law for each local authority (like Italy)?
+Is it better to have only one electoral law for all election in one country (like in Sweden) or one different electoral law for each local authority (like in Italy)?
 
-If you ask to yourself in Italy we have at least 28 (TWENTY-EIGHT!!) different electoral law (Chamber of Deputies, Senate, one for each Region, Provinces, and at least 5 for municipalities), and if each year we don't change at least one electoral law we are not happy.
+In Italy we have at least 28 (it's not a typo, twenty-eight) different electoral law (Chamber of Deputies, Senate, one for each Region, Provinces, and at least 5 systems for municipalities), and if each year we don't change at least one electoral law we are not happy.
 For example since 1991 only for Chamber of Deputies we had 5 different electoral law and now we try to approve the sixth different law (Renzi-Berlusconi Law named Italicum)
 
-So the scope of this blog is to explain each different electoral system with mathematical and practical example for really understand how they work and what the vote mean in each of them.
+So the scope of this blog is to explain each different electoral system with mathematical and practical examples, in order to really understand how they work and what the vote means in each of them.
