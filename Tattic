@@ -1,0 +1,41 @@
+isNeutral :: Zone -> Bool
+
+isEnemy :: Zone -> Bool
+
+isMine :: Zone -> Bool
+
+isOnBorder :: Zone -> Bool
+
+ownPods :: Zone -> Int
+
+nearPods :: Zone -> [Pods]
+
+maxEnemy :: [Pods] -> Int
+
+maxNearEnemyPods :: Zone -> Int
+maxEnemy . nearPods
+
+NeutralZone filter isNeutral
+Importance weightedValue / howManyFreeZone
+Purchase howManyFreeZone
+Movement Nothing
+
+NoNearEnemy filter (isOnBorder && maxEnemy==0)
+Importance enemyValue / weightedValue
+Purchase (repeat notOurZone - ownPods) M 1 zoneId
+Movement Distribuisciti pesando su valore/nemici
+
+InsideZone filter (isMine && not . isOnBorder)
+noImportance
+Purchase Nothing
+Movement Dijstkra
+
+NearEnemy filter (maxEnemy > 0 && ownPods<min(maxEnemy+1;4))
+Importance nearPods / weightedValue
+Purchase min(maxEnemy+1;4) - ownPods
+Movement Nothing
+
+CanAttack filter (maxEnemy > 0 && (ownPods >=maxEnemy+1 || ownPods>=4))
+Importance maxEnemy
+Purchase secondEnemy
+Movement min(maxEnemy+1;4)
